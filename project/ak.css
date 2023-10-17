@@ -173,6 +173,9 @@ h1{
     #about{
         align-items:left !important;  
     }
+    .logo{
+        filter: invert() !important;
+    }
 }
 .footer{
     /* border: 3px solid red; */
