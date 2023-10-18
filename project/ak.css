@@ -157,9 +157,6 @@ h1{
     .contact{
         height: 500px !important;
     } 
-    .logo{
-        filter: invert() !important;
-    }
     #about{
         align-items:left !important;  
     }
